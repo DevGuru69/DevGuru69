@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @DevGuru69<br>- 👀 My name is: Bailey and im 19<br>- 🌱 I’m currently trying to post helpful tools
+- 👋 Hi, I’m @DevGuru69
+- 👀 My name is: Bailey and im 19
+- 🌱 I’m currently trying to post helpful tools
 
 
 ## 🌐 Socials:
